@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ic_record.png</file>
+        <file>ic_stop.png</file>
+        <file>ic_folder_open.png</file>
+    </qresource>
+</RCC>
